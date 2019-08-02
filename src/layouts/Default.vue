@@ -6,9 +6,9 @@
       </strong>
       <nav class="nav">
         <g-link class="nav__link" to="/">Accueil</g-link>
-        <g-link class="nav__link" to="/about">Apprendre</g-link>
-        <g-link class="nav__link" to="/about">S'inspirer</g-link>
-        <g-link class="nav__link" to="/about">Utiliser</g-link>
+        <g-link class="nav__link" to="/category/apprendre">Apprendre</g-link> 
+        <g-link class="nav__link" to="/category/sinspirer">S'inspirer</g-link>
+        <g-link class="nav__link" to="/category/utiliser">Utiliser</g-link> 
       </nav>
     </header>
     <slot/>
